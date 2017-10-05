@@ -1,0 +1,1 @@
+MyPingTest.py is my own version of Ping utility according to ICMP protocol.
